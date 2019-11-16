@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "bubblesort.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jasmine": "^3.5.0"
   },
-  "devDependencies": {},
-  "scripts": { "test": "jasmine" },
+  "scripts": {
+    "test": "jasmine"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
